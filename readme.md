@@ -199,11 +199,11 @@ Duration: 6 Months
   <a href="mailto:amarjyoti090409@gmail.com">
     <img src="https://img.shields.io/badge/Email-amarjyoti090409@gmail.com-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email Amar Jyoti" />
   </a>
-  <a href="https://www.linkedin.com/in/arkaj-kamal-8410b4389/">
-    <img src="https://www.linkedin.com/in/amar-jyoti-345545376/?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Amar Jyoti" />
+  <a href="https://www.linkedin.com/in/amar-jyoti-345545376/">
+    <img src="https://img.shields.io/badge/LinkedIn-Amar%20Jyoti-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn Amar Jyoti" />
   </a>
-  <a href="(https://github.com/amarjyoti090409-rgb)">
-    <img src="https://img.shields.io/badge/GitHub-arkajkamal-0f172a?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Amar Jyoti" />
+  <a href="https://github.com/amarjyoti090409-rgb">
+    <img src="https://img.shields.io/badge/GitHub-amarjyoti090409-rgb?style=for-the-badge&logo=github&logoColor=ffffff" alt="GitHub Amar Jyoti" />
   </a>
 
 </div>
