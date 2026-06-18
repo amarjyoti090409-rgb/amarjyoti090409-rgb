@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,45:312e81,75:7c3aed,100:06b6d4&text=Amar%20Jyoti&fontColor=e0f2fe&fontSize=62&fontAlignY=36&animation=fadeIn&desc=Aspiring%20Data%20Science%20engineer&descAlignY=56&descSize=20" width="100%" alt="Amar Jyoti futuristic banner" />
 
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Turinig+data+into+Insights;Learning+Machine+Learning;Building+AI+Solution" alt="Animated typing introduction" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=950&lines=Turinig+data+into+Insights;Learning+Machine+Learner;Building+AI+Solution" alt="Animated typing introduction" />
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=amarjyoti090409-rgb&style=for-the-badge&label=Profile%20Views&color=06b6d4" alt="Profile views" />
@@ -15,7 +15,6 @@
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=12" width="100%" alt="Neon divider" />
-## 👨‍💻 About Me
 
 Hello! I'm Amar Jyoti, an aspiring Data Scientist currently pursuing a Diploma in Computer Science Engineering.
 
